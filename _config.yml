@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kaiming Shen, Ph.D."
   avatar           : "profile_square.jpg"
-  bio              : "Assistant Professor, CUHK-SZ"
-  #location         : "Location"
-  employer         : "https://www.cuhk.edu.cn/en"
+  bio              : ""
+  location         : #"Location"
+  employer         : "CUHK(Shenzhen)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=ZXex-IkAAAAJ&hl=en&oi=ao"
   email            : "shenkaiming@cuhk.edu.cn"
