@@ -84,8 +84,8 @@ author:
   avatar           : "profile_square.jpg"
   bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "https://www.cuhk.edu.cn/en"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=ZXex-IkAAAAJ&hl=en&oi=ao"
   email            : "shenkaiming@cuhk.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Kaiming_Shen"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  #twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
